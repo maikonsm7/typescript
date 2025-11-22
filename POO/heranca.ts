@@ -17,5 +17,5 @@ export class Cat extends Animal {
 const dog = new Dog('Buddy');
 dog.makeSound(); // Buddy says: Woof! Woof!
 
-const cat = new Cat('Whiskers teste');
+const cat = new Cat('Whiskers');
 cat.makeSound(); // Whiskers says: Meow! Meow!
